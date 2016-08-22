@@ -1,0 +1,5 @@
+com/test/hikari/dao/PersonDAO.class
+com/test/hikari/daoimpl/PersonDAOImpl.class
+com/test/hikari/App.class
+com/test/hikari/entities/Person.class
+com/test/hikari/util/Hikari.class
